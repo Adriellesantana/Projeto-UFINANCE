@@ -19,7 +19,7 @@ As tecnologias a serem utilizadas serão:
 - CSS;
 - Javascript.
 
-## Membros
+## Membros da Equipe
 [Adrielle Oliveira](https://github.com/Adriellesantana)   
 [Douglas de Jesus](https://github.com/SI-Douglas)    
 [Gislayne Galdino](https://github.com/GislayneGaldino)      
